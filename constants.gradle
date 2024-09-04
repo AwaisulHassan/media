@@ -28,7 +28,7 @@ project.ext {
     junitVersion = '4.13.2'
     // Use the same Guava version as the Android repo:
     // https://cs.android.com/android/platform/superproject/main/+/main:external/guava/METADATA
-    guavaVersion = '33.0.0-android'
+    guavaVersion = '33.3.0-android'
     kotlinxCoroutinesVersion = '1.8.1'
     leakCanaryVersion = '2.10'
     mockitoVersion = '3.12.4'
